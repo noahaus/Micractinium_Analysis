@@ -1,4 +1,4 @@
-# Micractinium_Analysis
+# Micractinium Analysis
 # Part 1 - Libraries for the Contig Analysis
 
 
